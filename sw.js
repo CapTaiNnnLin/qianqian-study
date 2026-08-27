@@ -1,4 +1,4 @@
-const CACHE_NAME = 'qianqian-v1';
+const CACHE_NAME = 'qianqian-v2';
 const ASSETS = [
   './',
   './index.html',
